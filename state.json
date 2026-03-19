@@ -1,0 +1,602 @@
+{
+  "users": {
+    "7032024055": {
+      "text": true,
+      "photo": false,
+      "voice": false,
+      "video": false,
+      "document": false,
+      "sticker": true,
+      "welcomed": true
+    },
+    "8719447981": {
+      "text": true,
+      "photo": false,
+      "voice": false,
+      "video": false,
+      "document": false,
+      "sticker": true,
+      "welcomed": true
+    },
+    "7752032178": {
+      "text": true,
+      "photo": false,
+      "voice": true,
+      "video": false,
+      "document": false,
+      "sticker": true,
+      "welcomed": true
+    },
+    "7434611094": {
+      "text": true,
+      "photo": false,
+      "voice": false,
+      "video": false,
+      "document": false,
+      "sticker": true,
+      "welcomed": true
+    }
+  },
+  "global_mode": false,
+  "block_text": "bunde file qabul qilnmedi men qorovulman",
+  "welcome_text": "salom qalsan shirnm",
+  "conversations": {
+    "7032024055": [
+      {
+        "time": "2026-03-19T03:27:18+00:00",
+        "from": "owner",
+        "content": "assalomu alaykum qande yordam kerak",
+        "message_id": 647
+      },
+      {
+        "time": "2026-03-19T03:27:16+00:00",
+        "from": "user",
+        "content": "salom",
+        "message_id": 646,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:27:45+00:00",
+        "from": "user",
+        "content": "[DOCUMENT]",
+        "message_id": 650,
+        "has_media": true,
+        "media_type": "document",
+        "blocked": true,
+        "blocked_type": "Fayl"
+      },
+      {
+        "time": "2026-03-19T03:41:57+00:00",
+        "from": "user",
+        "content": "[DOCUMENT]",
+        "message_id": 660,
+        "has_media": true,
+        "media_type": "document",
+        "blocked": true,
+        "blocked_type": "Fayl / PDF"
+      }
+    ],
+    "8719447981": [
+      {
+        "time": "2026-03-19T03:27:57+00:00",
+        "from": "owner",
+        "content": "assalomu alaykum qande yordam kerak",
+        "message_id": 655
+      },
+      {
+        "time": "2026-03-19T03:27:56+00:00",
+        "from": "user",
+        "content": "👑 ADMIN PANEL",
+        "message_id": 654,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:42:45+00:00",
+        "from": "user",
+        "content": "👑 ADMIN PANEL",
+        "message_id": 664,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:42:51+00:00",
+        "from": "user",
+        "content": "ID kiriting (matn tarixi):",
+        "message_id": 667,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:42:57+00:00",
+        "from": "user",
+        "content": "ID kiriting (matn tarixi):",
+        "message_id": 670,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:43:02+00:00",
+        "from": "user",
+        "content": "Yangi salomlashuv matn kiriting:",
+        "message_id": 673,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:43:06+00:00",
+        "from": "user",
+        "content": "✅ Yangilandi!\n\nsalom qalsan shirnm",
+        "message_id": 677,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:46:13+00:00",
+        "from": "user",
+        "content": "👑 ADMIN PANEL",
+        "message_id": 688,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:46:17+00:00",
+        "from": "user",
+        "content": "Yangi blok matn kiriting:",
+        "message_id": 691,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:46:24+00:00",
+        "from": "user",
+        "content": "✅ Yangilandi!\n\nbude file qabul qilnmedi",
+        "message_id": 695,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:46:52+00:00",
+        "from": "user",
+        "content": "Global rejim:",
+        "message_id": 701,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:46:54+00:00",
+        "from": "user",
+        "content": "Global rejim o‘chirildi ❌",
+        "message_id": 704,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:47:05+00:00",
+        "from": "user",
+        "content": "Global rejim:",
+        "message_id": 710,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:47:17+00:00",
+        "from": "user",
+        "content": "Global rejim:",
+        "message_id": 717,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:52:38+00:00",
+        "from": "user",
+        "content": "👑 ADMIN PANEL",
+        "message_id": 728,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:52:52+00:00",
+        "from": "user",
+        "content": "Yangi blok matn kiriting:",
+        "message_id": 731,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:53:01+00:00",
+        "from": "user",
+        "content": "✅ Yangilandi!\n\nbunde file qabul qilnmedi men qorovulman",
+        "message_id": 735,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:53:18+00:00",
+        "from": "user",
+        "content": "ID kiriting (matn tarixi):",
+        "message_id": 742,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:53:40+00:00",
+        "from": "user",
+        "content": "📜 So‘nggi 30 ta:\n2026-03-19T03:43:22 👤: s\n2026-03-19T03:43:24 👑: salom qalsan shirnm\n2026-03-19T03:46:00 👤: [PHOTO]\n2026-03-19T03:46:28 👤: [PHOTO]\n2026-03-19T03:46:59 👤: [PHOTO]\n2026-03-19T03:47:10 👤: [PHOTO]\n2026-03-19T03:47:21 👤: [PHOTO]\n2026-03-19T03:52:19 👤: [PHOTO]\n2026-03-19T03:53:09 👤: [PHOTO]",
+        "message_id": 757,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:53:49+00:00",
+        "from": "user",
+        "content": "ID kiriting (tekshirish):",
+        "message_id": 760,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:54:00+00:00",
+        "from": "user",
+        "content": "ID kiriting (media fayllar):",
+        "message_id": 765,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:54:08+00:00",
+        "from": "user",
+        "content": "ID kiriting (media fayllar):",
+        "message_id": 770,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T05:12:58+00:00",
+        "from": "user",
+        "content": "👑 ADMIN PANEL",
+        "message_id": 776,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T05:13:19+00:00",
+        "from": "user",
+        "content": "ID kiriting (media fayllar):",
+        "message_id": 781,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T05:13:22+00:00",
+        "from": "user",
+        "content": "Media ko‘rish funksiyasi hozircha tayyor emas.",
+        "message_id": 784,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T05:16:44+00:00",
+        "from": "user",
+        "content": "👑 ADMIN PANEL",
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false
+      },
+      {
+        "time": "2026-03-19T05:17:00+00:00",
+        "from": "user",
+        "content": "ID kiriting (media fayllar):",
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false
+      },
+      {
+        "time": "2026-03-19T05:17:06+00:00",
+        "from": "user",
+        "content": "🆔 7752032178 uchun media topilmadi.",
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false
+      },
+      {
+        "time": "2026-03-19T05:17:34+00:00",
+        "from": "user",
+        "content": "Noma'lum buyruq.",
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false
+      },
+      {
+        "time": "2026-03-19T05:17:38+00:00",
+        "from": "user",
+        "content": "ID kiriting (media fayllar):",
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false
+      },
+      {
+        "time": "2026-03-19T05:17:41+00:00",
+        "from": "user",
+        "content": "ID kiriting (matn tarixi):",
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false
+      },
+      {
+        "time": "2026-03-19T05:17:51+00:00",
+        "from": "user",
+        "content": "Qaysi tur?",
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false
+      },
+      {
+        "time": "2026-03-19T05:17:53+00:00",
+        "from": "user",
+        "content": "👑 ADMIN PANEL",
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false
+      },
+      {
+        "time": "2026-03-19T05:29:23+00:00",
+        "from": "user",
+        "content": "👑 ADMIN PANEL",
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false
+      },
+      {
+        "time": "2026-03-19T05:29:32+00:00",
+        "from": "user",
+        "content": "media uchun ID kiriting:",
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false
+      },
+      {
+        "time": "2026-03-19T05:29:39+00:00",
+        "from": "user",
+        "content": "🆔 7752032178 uchun hech qanday media topilmadi.",
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false
+      },
+      {
+        "time": "2026-03-19T05:30:19+00:00",
+        "from": "user",
+        "content": "Qaysi tur uchun?",
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false
+      },
+      {
+        "time": "2026-03-19T05:30:22+00:00",
+        "from": "user",
+        "content": "Foydalanuvchi ID sini yozing:",
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false
+      }
+    ],
+    "7752032178": [
+      {
+        "time": "2026-03-19T03:43:24+00:00",
+        "from": "owner",
+        "content": "salom qalsan shirnm",
+        "message_id": 681
+      },
+      {
+        "time": "2026-03-19T03:43:22+00:00",
+        "from": "user",
+        "content": "s",
+        "message_id": 680,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:46:00+00:00",
+        "from": "user",
+        "content": "[PHOTO]",
+        "message_id": 684,
+        "has_media": true,
+        "media_type": "photo",
+        "blocked": true,
+        "blocked_type": "Rasm"
+      },
+      {
+        "time": "2026-03-19T03:46:28+00:00",
+        "from": "user",
+        "content": "[PHOTO]",
+        "message_id": 698,
+        "has_media": true,
+        "media_type": "photo",
+        "blocked": true,
+        "blocked_type": "Rasm"
+      },
+      {
+        "time": "2026-03-19T03:46:59+00:00",
+        "from": "user",
+        "content": "[PHOTO]",
+        "message_id": 707,
+        "has_media": true,
+        "media_type": "photo",
+        "blocked": true,
+        "blocked_type": "Rasm"
+      },
+      {
+        "time": "2026-03-19T03:47:10+00:00",
+        "from": "user",
+        "content": "[PHOTO]",
+        "message_id": 714,
+        "has_media": true,
+        "media_type": "photo",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:47:21+00:00",
+        "from": "user",
+        "content": "[PHOTO]",
+        "message_id": 720,
+        "has_media": true,
+        "media_type": "photo",
+        "blocked": true,
+        "blocked_type": "Rasm"
+      },
+      {
+        "time": "2026-03-19T03:52:19+00:00",
+        "from": "user",
+        "content": "[PHOTO]",
+        "message_id": 723,
+        "has_media": true,
+        "media_type": "photo",
+        "blocked": true,
+        "blocked_type": "Rasm"
+      },
+      {
+        "time": "2026-03-19T03:53:09+00:00",
+        "from": "user",
+        "content": "[PHOTO]",
+        "message_id": 738,
+        "has_media": true,
+        "media_type": "photo",
+        "blocked": true,
+        "blocked_type": "Rasm"
+      },
+      {
+        "time": "2026-03-19T05:13:04+00:00",
+        "from": "user",
+        "content": "[PHOTO]",
+        "message_id": 778,
+        "has_media": true,
+        "media_type": "photo",
+        "blocked": true,
+        "blocked_type": "Rasm"
+      },
+      {
+        "time": "2026-03-19T05:16:49+00:00",
+        "from": "user",
+        "content": "[PHOTO]",
+        "has_media": true,
+        "media_type": "photo",
+        "blocked": true
+      },
+      {
+        "time": "2026-03-19T05:17:29+00:00",
+        "from": "user",
+        "content": "[DOCUMENT]",
+        "has_media": true,
+        "media_type": "document",
+        "blocked": true
+      },
+      {
+        "time": "2026-03-19T05:29:27+00:00",
+        "from": "user",
+        "content": "[PHOTO]",
+        "has_media": true,
+        "media_type": "photo",
+        "blocked": true
+      },
+      {
+        "time": "2026-03-19T05:30:02+00:00",
+        "from": "user",
+        "content": "[VOICE]",
+        "has_media": true,
+        "media_type": "voice",
+        "blocked": true
+      },
+      {
+        "time": "2026-03-19T05:30:31+00:00",
+        "from": "user",
+        "content": "[VOICE]",
+        "has_media": true,
+        "media_type": "voice",
+        "blocked": false
+      }
+    ],
+    "7434611094": [
+      {
+        "time": "2026-03-19T03:53:29+00:00",
+        "from": "owner",
+        "content": "salom qalsan shirnm",
+        "message_id": 747
+      },
+      {
+        "time": "2026-03-19T03:53:28+00:00",
+        "from": "user",
+        "content": "🔸**User ID :** `8018414540`",
+        "message_id": 746,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      },
+      {
+        "time": "2026-03-19T03:53:35+00:00",
+        "from": "user",
+        "content": "🔸**User ID :** `7752032178`",
+        "message_id": 753,
+        "has_media": false,
+        "media_type": "text",
+        "blocked": false,
+        "blocked_type": null
+      }
+    ]
+  },
+  "media_files": {}
+}
